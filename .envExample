@@ -1,5 +1,5 @@
-MONGO_URL=YourMongoDbURL
+MONGODB_URL=YourMongoDbURL
 JWT_SECRET=YourJWTSecret
 JWT_EXPIRES_IN_MINUTES=TimeForJwtExpiration
 NODE_ENV=developmentOrproduction
-PORT=YourPortDefaultIs3000
+PORT=YourPortDefaultIs3000`
